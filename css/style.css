@@ -170,7 +170,7 @@ p {
 
 /* -----------------------Site Title---------------------------- */
 main .site-title {
-  background: url("../assets/Background-image.png");
+  background: url("../assets/banner-title-1.gif");
   background-size: cover;
   height: 119vh;
   display: flex;
