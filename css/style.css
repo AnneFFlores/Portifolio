@@ -17,7 +17,7 @@ body {
 
   /* gradiente color */
   /* --sky: linear-gradient(120deg,#a1c4df 0%, #c2e9fb 100%); */
-  --sky: linear-gradient(120deg, #973200 0%, #d2b23e 100%);
+  --sky: linear-gradient(120deg, #973200 0%, #dcb943 100%);
 
   /* theme font-family */
   --Abel: "Abel", cursive;
@@ -31,7 +31,7 @@ body {
 
 a {
   text-decoration: none;
-  color: var(--text-gray);
+  color: #dcb943;
 }
 
 .flex-row {
@@ -76,7 +76,7 @@ span {
 }
 
 .text-gray {
-  color: #3f4954;
+  color: #dcb943;
 }
 
 p {
@@ -170,7 +170,7 @@ p {
 
 /* -----------------------Site Title---------------------------- */
 main .site-title {
-  background: url("../assets/banner-p-designer.png");
+  background: url("../assets/fundo03.png");
   background-size: cover;
   height: 119vh;
   display: flex;
