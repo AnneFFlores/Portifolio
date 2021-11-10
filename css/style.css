@@ -31,7 +31,7 @@ body {
 
 a {
   text-decoration: none;
-  color: #dcb943;
+  color: #973200;
 }
 
 .flex-row {
@@ -76,7 +76,7 @@ span {
 }
 
 .text-gray {
-  color: #dcb943;
+  color: #973200;
 }
 
 p {
@@ -120,16 +120,16 @@ p {
 
 .nav .toggle-collapse .toggle-icons i {
   font-size: 1.4rem;
-  color: var(--test-gray);
+  color: var(--text-gray);
 }
 
 .nav .nav-items {
   display: flex;
-  margin: 0;
+  margin: 0.2rem;
 }
 
 .nav .nav-items .nav-link {
-  padding: 1.6rem 1rem;
+  padding: 0.6rem 1rem;
   font-size: 1.1rem;
   position: relative;
   font-family: var(--Abel);
@@ -137,7 +137,7 @@ p {
 }
 
 .nav .nav-items .nav-link:hover {
-  background-color: var(--midnight);
+  background-color: #973200;
 }
 
 .nav .nav-items .nav-link:hover a {
@@ -161,7 +161,7 @@ p {
 }
 
 .nav .social i:hover {
-  color: #a1c4cf;
+  color: #dcb943;
 }
 
 /* -------------------x----------------navbar------------------x--------- */
@@ -172,7 +172,7 @@ p {
 main .site-title {
   background: url("../assets/fundo03.png");
   background-size: cover;
-  height: 119vh;
+  height: 76vh;
   display: flex;
   justify-content: center;
 }
